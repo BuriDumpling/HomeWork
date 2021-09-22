@@ -1,4 +1,4 @@
-## ls --help
+# ls --help
 ```
 Usage: ls [OPTION]... [FILE]...
 List information about the FILEs (the current directory by default).
